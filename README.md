@@ -739,7 +739,7 @@ See [LICENSE](./LICENSE) for full text.
 
 <div align="center">
 
-**Built with 🖤 for people who just want to talk.**
+**Built BY 🖤K R HARI PRAJWAL  for people who just want to talk.**
 
 [**→ Start Chatting Now ←**](https://t.me/secretdate7123_bot)
 
